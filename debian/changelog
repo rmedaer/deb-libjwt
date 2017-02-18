@@ -1,0 +1,107 @@
+libjwt (1.7.3-1) trusty; urgency=medium
+
+  * New upstream release
+
+ -- Ben Collins <ben@cyphre.com>  Sat, 18 Feb 2017 07:49:43 -0500
+
+libjwt (1.7.2-2) trusty; urgency=medium
+
+  * Update control file fields
+
+ -- Ben Collins <ben@cyphre.com>  Sat, 26 Nov 2016 22:42:51 -0500
+
+libjwt (1.7.2-1) trusty; urgency=medium
+
+  * New upstream release
+
+ -- Ben Collins <ben@cyphre.com>  Wed, 16 Nov 2016 20:39:47 -0500
+
+libjwt (1.7.1-2) trusty; urgency=medium
+
+  * Add autoconf build-dep
+
+ -- Ben Collins <ben@cyphre.com>  Thu, 10 Nov 2016 09:33:14 -0500
+
+libjwt (1.7.1-1) trusty; urgency=medium
+
+  * New upstream release
+
+ -- Ben Collins <ben@cyphre.com>  Thu, 10 Nov 2016 09:22:25 -0500
+
+libjwt (1.7.0-1) trusty; urgency=medium
+
+  * New upstream release
+
+ -- Ben Collins <ben@cyphre.com>  Tue, 08 Nov 2016 14:23:19 -0500
+
+libjwt (1.6.2-1) trusty; urgency=medium
+
+  * New upstream release
+
+ -- Ben Collins <ben@cyphre.com>  Sat, 05 Nov 2016 16:56:25 -0400
+
+libjwt (1.6.0-1) trusty; urgency=medium
+
+  * New upstream release
+
+ -- Ben Collins <ben@cyphre.com>  Tue, 25 Oct 2016 19:20:51 -0400
+
+libjwt (1.5.0-2) xenial; urgency=medium
+
+  * Upload to xenial
+
+ -- Ben Collins <ben@cyphre.com>  Wed, 12 Oct 2016 22:24:41 -0400
+
+libjwt (1.5.0-1) trusty; urgency=medium
+
+  * New upstream release
+
+ -- Ben Collins <ben@cyphre.com>  Wed, 12 Oct 2016 22:13:24 -0400
+
+libjwt (1.4.0-3) xenial; urgency=medium
+
+  * Upload for xenial
+
+ -- Ben Collins <ben@cyphre.com>  Sat, 08 Oct 2016 23:47:11 -0400
+
+libjwt (1.4.0-2) trusty; urgency=medium
+
+  * Upload for trusty
+
+ -- Ben Collins <ben@cyphre.com>  Sat, 08 Oct 2016 23:47:10 -0400
+
+libjwt (1.4.0-1) trusty; urgency=medium
+
+  * New upstream release
+
+ -- Ben Collins <ben@cyphre.com>  Sat, 08 Oct 2016 23:37:33 -0400
+
+libjwt (1.3.1-1) trusty; urgency=medium
+
+  * New upstream release
+
+ -- Ben Collins <ben@cyphre.com>  Thu, 28 May 2015 14:18:37 -0400
+
+libjwt (1.3.0-1) trusty; urgency=medium
+
+  * New upstream release
+
+ -- Ben Collins <ben@cyphre.com>  Thu, 28 May 2015 12:39:13 -0500
+
+libjwt (1.2.2-1) trusty; urgency=medium
+
+  * New upstream release
+
+ -- Ben Collins <ben@cyphre.com>  Tue, 26 May 2015 17:10:01 -0500
+
+libjwt (1.2.1-1) trusty; urgency=medium
+
+  * New upstream release
+
+ -- Ben Collins <ben@cyphre.com>  Tue, 19 May 2015 23:56:18 -0500
+
+libjwt (1.1.0-1) trusty; urgency=low
+
+  * Initial release
+
+ -- Ben Collins <ben@cyphre.com>  Tue, 19 May 2015 11:16:16 -0500
